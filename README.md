@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Lexographic
-- 👀 I’m interested in ... creating visualizations with data
-- 🌱 I’m currently learning ... anything related to data
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Lexographic aka Alexandria
+- 👀 I’m interested in ... creating visulations, creating twitch bots, and naps
+- 🌱 I’m currently learning ... Machine Learning, AI, online gaming, Adobe Creative Suite
 - 📫 How to reach me ... via email, social media
 
 <!---
