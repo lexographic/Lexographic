@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lexographic aka Alexandria
-- 👀 I’m interested in ... creating visulations, creating twitch bots, and naps
-- 🌱 I’m currently learning ... Machine Learning, AI, online gaming, Adobe Creative Suite
+- 👀 I’m interested in ... diffusion models, design, anime and lofi beats
+- 🌱 I’m currently learning ... generative ai tools for creative and functional purposes
 - 📫 How to reach me ... via email, social media
 
 <!---
